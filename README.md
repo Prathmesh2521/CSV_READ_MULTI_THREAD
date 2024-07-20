@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8daaf745-c2f0-4eee-83fb-6969ea26909a)# CSV_READ_MULTI_THREAD
+# CSV_READ_MULTI_THREAD
 CSV read 
 This project take input of CSV files as input
 
